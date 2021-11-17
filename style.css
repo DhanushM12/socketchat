@@ -14,7 +14,7 @@ body {
   padding: 5px;
 }
 #message-container div:nth-child(2n) {
-  background-color: rgb(163, 30, 30);
+  background-color: rgb(113, 118, 192);
 }
 
 #send-container {
